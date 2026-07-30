@@ -1,6 +1,6 @@
 # 🚀 Project Name
 
-A modern full-stack web application built to provide a seamless and user-friendly experience. This project demonstrates clean architecture, responsive design, and efficient data management using modern web technologies.
+A modern full-stack web application built to provide a seamless and user-friendly experience. This project demonstrates clean architecture, responsive design, and efficient data management using modern web technologies. 
 
 ## 📖 Description
 
